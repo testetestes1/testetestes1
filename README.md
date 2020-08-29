@@ -14,7 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Oláááááá, tudo bem? Espero que sim =)
 
-Bom, eu sou a Everlyn e não a menor ideia do que estou fazendo, só sei que estou curtindo. Caí de paraquedas no mundo da tecnologia e aqui estou, descobrindo coisas novas a cada dia e me descobrindo também. 
-Atualmente trabalho como desenvolvedora na plataforma ServiceNow, que apesar de ser lowcode, me deu amplas oportunidades de explorar meus "codiguinhos". 
