@@ -2,7 +2,6 @@
 
 <!--
 **testetestes1/testetestes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Oláááááá, tudo bem? Espero que sim =)
+
+Bom, eu sou a Everlyn e não a menor ideia do que estou fazendo, só sei que estou curtindo. Caí de paraquedas no mundo da tecnologia e aqui estou, descobrindo coisas novas a cada dia e me descobrindo também. 
+Atualmente trabalho como desenvolvedora na plataforma ServiceNow, que apesar de ser lowcode, me deu amplas oportunidades de explorar meus "codiguinhos". 
